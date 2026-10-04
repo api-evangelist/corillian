@@ -55,7 +55,7 @@ tags:
 - Company
 - Online Banking
 - Banking Software
-- Financial-Services
+- Financial Services
 - Fintech
 - Bill Payments
 - Defunct
@@ -69,6 +69,7 @@ tags_raw:
 - Bill Payment
 - Defunct
 - Acquired
+- Financial-Services
 apis: []
 common: []
 maintainers:
